@@ -1,1 +1,1 @@
-# Test environment for SIMHUB website
+# Environment for EDURISVO website
